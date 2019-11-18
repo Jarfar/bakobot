@@ -1,0 +1,26 @@
+{
+  "name": "bakobot",
+  "version": "1.0.0",
+  "description": "Bot for bakotech",
+  "main": "src/App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jarfar/bakobot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "BlueCrab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jarfar/bakobot/issues"
+  },
+  "homepage": "https://github.com/Jarfar/bakobot#readme",
+  "dependencies": {
+    "telegraf": "^3.33.3"
+  }
+}
